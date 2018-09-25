@@ -19,8 +19,7 @@ public class Person {
         count++;
     }
 
-    void doSomething() {
-        println(count + " I did something");
+    void doSomething() {        println(count + " I did something");
 
     }
     static void doSomethingElse() {
